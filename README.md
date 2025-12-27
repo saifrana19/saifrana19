@@ -1,10 +1,6 @@
-💫 About Me
-Hi, I'm Saif Ur Rahman 👋 🚀 AI & Django Developer | Machine Learning Engineer | Python Tutor
-📍 Sialkot, Pakistan
+#💫 About Me
+#Hi, I'm Saif Ur Rahman 👋 🚀 AI & Django Developer | Machine Learning Engineer | Python Tutor
 
-I am a results-driven developer with hands-on experience in Python, Django, and Machine Learning, focused on building scalable AI-powered applications. I have worked on real-world AI projects, backend systems, and freelance solutions for international clients via Upwork and Fiverr.
-
-Alongside development, I actively teach Python, AI, and Computer Science, helping students understand complex concepts through practical examples.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saif.ur.rahman.521449) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.saif.ur.rahman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saifiaideveloper) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SAIF UR RAHMAN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifiaideveloper@gmail.com) 
 
